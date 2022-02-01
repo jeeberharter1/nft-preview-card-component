@@ -147,6 +147,10 @@ hr {
     margin-right: 15px;
 }
 
+#creator-name {
+    color: white;
+}
+
 #creator-name:hover {
     color: hsl(178, 100%, 50%);
     cursor: pointer;
