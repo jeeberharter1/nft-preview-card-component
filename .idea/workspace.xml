@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f60787f3-7f1f-4331-89fd-9a822ed0d922" name="Changes" comment="add images and designs" />
+    <list default="true" id="f60787f3-7f1f-4331-89fd-9a822ed0d922" name="Changes" comment="add images and designs">
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,7 @@
       <workItem from="1643567035818" duration="8000" />
       <workItem from="1643567774251" duration="1028000" />
       <workItem from="1643580567913" duration="40000" />
-      <workItem from="1643677826004" duration="6584000" />
+      <workItem from="1643677826004" duration="6696000" />
     </task>
     <task id="LOCAL-00001" summary="add images and designs">
       <created>1643684233203</created>
@@ -54,7 +56,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643684425073</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add images and designs">
+      <created>1643684532743</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643684532743</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add images and designs">
+      <created>1643684553551</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643684553551</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
